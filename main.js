@@ -5,7 +5,7 @@
 // @description  NetcutPro Activator
 // @author       batininhani
 // @match        https://www.arcai.com/netCut/s/
-// @grant        GM_webRequest,GM_xmlhttpRequest
+// @grant        GM_webRequest
 // @webRequest   [{"selector":"https://www.arcai.com/netCut/s/main-*.js","action":"cancel"}]
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
 // ==/UserScript==
